@@ -12,7 +12,7 @@ Steps:
 
 * There are two notebooks:
   * One notebook initializes the Pod with the required resources (gmx binaries, nglview, etc).  Use provided URL and password to open a NEW Jupyter Lab browser tab.
-  * Open the Tutorial notebook IN THE NEW TAB, and gromacs should work.
+  * Open the Tutorial notebook IN THE NEW BROWSER TAB, and gromacs should work.
 
 
 
